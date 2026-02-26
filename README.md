@@ -1,4 +1,6 @@
 🎟️ SequentialLotto
+
+
 A fully automated, decentralized lottery system built on Ethereum. This contract allows players to purchase tickets with their lucky numbers and uses Chainlink VRF (Verifiable Random Function) v2.5 to ensure the draw is provably fair and tamper-proof.
 
 The best part? It's self-executing. Thanks to Chainlink Automation, the lottery draws itself every 24 hours without any human intervention.
